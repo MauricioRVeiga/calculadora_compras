@@ -39,13 +39,17 @@ Resultado esperado exibido na tela:
 
 ## Capturas de tela
 
-**Emulador:**
+**Emulador — aba Catálogo:**
 
-_< inserir print do app rodando no emulador >_
+![Catálogo de produtos no emulador](docs/screenshots/emulador-catalogo.png)
 
-**Logcat:**
+**Emulador — aba Carrinho (cenário de validação):**
 
-_< inserir print do relatório gerado no Logcat >_
+![Carrinho com valores do cenário de validação](docs/screenshots/emulador-carrinho.png)
+
+**Logcat — relatório de produtos com desconto:**
+
+![Relatório formatado no Logcat](docs/screenshots/logcat-relatorio.png)
 
 ## Vídeo de apresentação
 
